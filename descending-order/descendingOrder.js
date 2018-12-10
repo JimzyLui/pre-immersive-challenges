@@ -1,6 +1,6 @@
 module.exports = function descendingOrder(number) {
   // write code in here
-  console.log("type: " + typeof number);
+  // console.log("type: " + typeof number);
   if (typeof number !== "number") {
     return "not a number!";
   }
